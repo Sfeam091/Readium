@@ -1,6 +1,6 @@
 <template>
   <div class="fixed top-4 inset-x-0 z-50 px-4 flex justify-center w-full pointer-events-none">
-    <nav class="relative w-full max-w-7xl pointer-events-auto bg-[#212529] text-white border border-gray-800 rounded-2xl shadow-xl">
+    <nav class="relative w-full max-w-7xl pointer-events-auto bg-[#212529] text-white rounded-2xl" :class="scrolled ? 'shadow-xl border border-gray-800' : 'shadow-none border-none'">
       <div class="px-6">
         <div class="flex justify-between h-16 items-center">
           <!-- Logo -->
@@ -77,11 +77,12 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue';
+import { ref, computed, onMounted, onUnmounted } from 'vue';
 import { useRoute } from 'vue-router';
 
 const route = useRoute();
 const isOpen = ref(false);
+const scrolled = ref(false);
 
 // Pages with dark hero section
 const darkPages = ['/'];
@@ -90,6 +91,19 @@ const isDarkPage = computed(() => darkPages.includes(route.path));
 
 const spacerBgClass = computed(() => {
   return isDarkPage.value ? 'bg-[#212529]' : 'bg-white';
+});
+
+// Handle scroll effect for navbar shadow
+const handleScroll = () => {
+  scrolled.value = window.scrollY > 10;
+};
+
+onMounted(() => {
+  window.addEventListener('scroll', handleScroll);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', handleScroll);
 });
 
 const navItems = [

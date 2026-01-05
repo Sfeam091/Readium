@@ -10,10 +10,10 @@
           Professional development books, technical guides, and career resources — all available free in PDF format. No registration required.
         </p>
         <div class="flex justify-center space-x-4">
-          <router-link to="/books" class="btn-primary py-3 text-sm">
+          <router-link to="/books" class="btn-primary py-3 px-6 text-sm">
             Browse All Books
           </router-link>
-          <router-link to="/about" class="bg-transparent border border-gray-700 text-white px-10 py-3 text-sm font-medium hover:bg-gray-800 transition-colors rounded-2xl">
+          <router-link to="/about" class="bg-transparent border border-gray-700 text-white px-6 py-3 text-sm font-medium hover:bg-gray-800 transition-colors rounded-2xl">
             Learn More
           </router-link>
         </div>
@@ -28,7 +28,7 @@
             <h2 class="text-2xl font-bold text-dark">Featured Books</h2>
             <p class="text-gray-500 text-sm mt-1">Our top picks for this week</p>
           </div>
-          <router-link to="/books" class="text-primary font-bold text-sm tracking-widest uppercase hover:underline">
+          <router-link to="/books" class="text-primary font-bold text-sm tracking-widest uppercase hover:underline px-4">
             View All &rarr;
           </router-link>
         </div>

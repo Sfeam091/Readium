@@ -1,75 +1,5 @@
 [
   {
-    "id": 6,
-    "title": "Refactoring",
-    "author": "Martin Fowler",
-    "category": [
-      "Software Engineering"
-    ],
-    "description": "Improving the Design of Existing Code. This book is a must-have for anyone serious about code quality.",
-    "coverImage": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1000&auto=format&fit=crop",
-    "downloadUrl": "#",
-    "year": 1999,
-    "pages": 448,
-    "authorId": 6
-  },
-  {
-    "id": 7,
-    "title": "Eloquent JavaScript",
-    "author": "Marijn Haverbeke",
-    "category": [
-      "Programming"
-    ],
-    "description": "A Modern Introduction to Programming. Deeply practical and very readable.",
-    "coverImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop",
-    "downloadUrl": "#",
-    "year": 2011,
-    "pages": 472,
-    "authorId": 7
-  },
-  {
-    "id": 8,
-    "title": "Soft Skills",
-    "author": "John Sonmez",
-    "category": [
-      "Career"
-    ],
-    "description": "The software developer's life manual. It covers everything from fitness to finance.",
-    "coverImage": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=1000&auto=format&fit=crop",
-    "downloadUrl": "#",
-    "year": 2014,
-    "pages": 504,
-    "authorId": 8
-  },
-  {
-    "id": 9,
-    "title": "Code Complete",
-    "author": "Steve McConnell",
-    "category": [
-      "Software Engineering"
-    ],
-    "description": "A Practical Handbook of Software Construction. Widely considered one of the best practical guides to programming.",
-    "coverImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000&auto=format&fit=crop",
-    "downloadUrl": "#",
-    "year": 1993,
-    "pages": 960,
-    "authorId": 9
-  },
-  {
-    "id": 10,
-    "title": "Head First Design Patterns",
-    "author": "Eric Freeman",
-    "category": [
-      "Software Engineering"
-    ],
-    "description": "A Brain-Friendly Guide. Learn how to create reusable, maintainable software with patterns.",
-    "coverImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
-    "downloadUrl": "#",
-    "year": 2004,
-    "pages": 688,
-    "authorId": 10
-  },
-  {
     "title": "The Impact of Technology on Modern Education",
     "authorId": 12,
     "author": "Abdul Wahab",
@@ -82,5 +12,145 @@
     "year": 2026,
     "pages": 5,
     "id": 11
+  },
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "authorId": 13,
+    "author": "Robert C. Martin",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Clean Code by Robert C. Martin (\"Uncle Bob\") describes code that is easy to read, understand, and maintain by any developer, not just the original author, focusing on clarity, simplicity, and professionalism to reduce technical debt and improve long-term software agility, emphasizing principles like meaningful names, DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), and the Boy Scout Rule.",
+    "coverImage": "https://book-shelf.pk/cdn/shop/files/clean-code-a-handbook-of-agile-software-craftsmanship-by-robert-c-martin-bookshelfpk-pakistan-5481975.jpg?v=1763060149",
+    "downloadUrl": "https://ptgmedia.pearsoncmg.com/images/9780132350884/samplepages/9780132350884.pdf",
+    "year": 2008,
+    "pages": 464,
+    "id": 12
+  },
+  {
+    "title": "The Pragmatic Programmer: Your Journey to Mastery",
+    "authorId": 14,
+    "author": "Andrew Hunt",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "The Pragmatic Programmer is a classic, influential book by Andrew Hunt and David Thomas offering timeless advice and best practices for software developers to improve their skills, mindset, and career, focusing on personal responsibility, craftsmanship, and adaptability rather than rigid methodologies, introducing concepts like DRY (Don't Repeat Yourself) and tracer bullets. It's structured as a collection of tips, making it readable piece by piece, and emphasizes a practical, context-aware approach to building high-quality, flexible, and maintainable software.",
+    "coverImage": "https://www.oreilly.com/library/cover/9780135956977/1200w630h/",
+    "downloadUrl": "https://cdn.ttgtmedia.com/rms/pdf/pragmatic_programmer_ch4.pdf",
+    "year": 1999,
+    "pages": 352,
+    "id": 13
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "authorId": 16,
+    "author": "Thomas H. Cormen",
+    "category": [
+      "Computer Science / Algorithms"
+    ],
+    "description": "Introduction to Algorithms (CLRS) by Cormen, Leiserson, Rivest, & Stein is the definitive textbook and reference for algorithms, blending deep mathematical rigor with accessible explanations for students and professionals.",
+    "coverImage": "https://www.codewithc.com/wp-content/uploads/2015/05/introduction-to-algorithms.jpeg",
+    "downloadUrl": "https://books.google.com/books/about/Introduction_to_Algorithms.html?id=nc4gngEACAAJ",
+    "year": 1990,
+    "pages": 1312,
+    "id": 14
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "authorId": 20,
+    "author": "Erich Gamma",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Design Patterns: Elements of Reusable Object-Oriented Software (the \"Gang of Four\" book) is a foundational software engineering text describing 23 classic, reusable solutions to common object-oriented design problems, categorized as Creational, Structural, and Behavioral, helping developers build flexible, maintainable, and efficient code by providing a shared vocabulary and proven blueprints for managing object creation, composition, and interaction.",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51szD9HC9pL._SX395_BO1,204,203,200_.jpg",
+    "downloadUrl": "https://github.com/deepakkum21/Books/blob/master/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object%20Oriented%20Software%20-%20GOF.pdf",
+    "year": 1994,
+    "pages": 395,
+    "id": 15
+  },
+  {
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "authorId": 21,
+    "author": "Martin Fowler",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Improving the Design of Existing Code\" describes the disciplined process of restructuring code to enhance its internal design, readability, and maintainability without altering its external behavior or functionality, using small, safe, behavior-preserving transformations (refactorings) to create cleaner, more adaptable software, often guided by recognizing \"code smells\" and relying on automated tests.",
+    "coverImage": "https://martinfowler.com/books/refact2.jpg",
+    "downloadUrl": "https://dl.ebooksworld.ir/motoman/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf",
+    "year": 1999,
+    "pages": 448,
+    "id": 16
+  },
+  {
+    "title": "Code Complete: A Practical Handbook of Software Construction",
+    "authorId": 22,
+    "author": "Steve McConnell",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Code Complete: A Practical Handbook of Software Construction by Steve McConnell is a seminal book offering deep, language-agnostic guidance on writing high-quality, robust, and maintainable software, covering everything from fundamental design, data structuring, and control flow to self-documenting code, testing, performance tuning, and personal character in software development.",
+    "coverImage": "https://www.ubuy.com.pk/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFNWVk1UFJpYkwuX1NMMTUwMF8uanBn.jpg",
+    "downloadUrl": "https://ptgmedia.pearsoncmg.com/images/9780735619678/samplepages/9780735619678a.pdf",
+    "year": 1993,
+    "pages": 960,
+    "id": 17
+  },
+  {
+    "title": "The Mythical Man-Month: Essays on Software Engineering",
+    "authorId": 23,
+    "author": "Frederick P. Brooks Jr.",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "The Mythical Man-Month: Essays on Software Engineering is a book on software engineering and project management by Fred Brooks first published in 1975, with subsequent editions in 1982 and 1995. Its central theme is that adding manpower to a software project that is behind schedule delays it even longer.",
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1348430512i/13629.jpg",
+    "downloadUrl": "https://ptgmedia.pearsoncmg.com/images/9780201835953/samplepages/0201835959.pdf",
+    "year": 1975,
+    "pages": 336,
+    "id": 18
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs (SICP)",
+    "authorId": 24,
+    "author": "Harold Abelson",
+    "category": [
+      "Computer Science / Algorithms"
+    ],
+    "description": "Structure and Interpretation of Computer Programs (SICP) is a foundational CS textbook by Abelson & Sussman, famous as the \"Wizard Book,\" teaching core concepts like abstraction, recursion, and modularity through mental models, using Scheme (or JavaScript in newer versions) to build interpreters and systems, emphasizing big-picture thinking over syntax, and focusing on how programs work by building them from scratch.",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/9/9d/SICP_cover.jpg",
+    "downloadUrl": "https://web.mit.edu/6.001/6.037/sicp.pdf",
+    "year": 1984,
+    "pages": 657,
+    "id": 19
+  },
+  {
+    "title": "The C Programming Language",
+    "authorId": 25,
+    "author": "Brian W. Kernighan",
+    "category": [
+      "Programming"
+    ],
+    "description": "The C Programming Language (K&R) by Brian Kernighan and Dennis Ritchie is the foundational book for the C language, written by its creator (Ritchie) and a key collaborator (Kernighan). It serves as a definitive guide, explaining C's structure, efficient low-level access, portable design, and core concepts like pointers and data structures, establishing itself as an authoritative, classic text for programmers learning this powerful, general-purpose language closely tied to the Unix OS.",
+    "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032531i/515601.jpg",
+    "downloadUrl": "https://archive.org/details/TheCProgrammingLanguageFirstEdition",
+    "year": 1978,
+    "pages": 272,
+    "id": 20
+  },
+  {
+    "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "authorId": 26,
+    "author": "Gayle Laakmann",
+    "category": [
+      "Career"
+    ],
+    "description": "Cracking the Coding Interview (CTCI) by Gayle Laakmann McDowell is a definitive guide for software engineers preparing for technical interviews, offering 189 programming questions, detailed solutions, problem-solving strategies (like Big O), insights into tech company hiring, and advice on behavioral questions, making it a comprehensive resource for landing top developer jobs at companies like Google, Meta, and Amazon.",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41oYsXjLvZL._SX348_BO1,204,203,200_.jpg",
+    "downloadUrl": "http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20I/CSE%20%20IT%20AIDS%20ML/Cracking%20the%20Coding%20Interview.pdf ",
+    "year": 2008,
+    "pages": 687,
+    "id": 21
   }
 ]

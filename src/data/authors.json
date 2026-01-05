@@ -1,74 +1,92 @@
 [
   {
-    "id": 1,
-    "name": "Robert C. Martin",
-    "bio": "Known as Uncle Bob, is an American software engineer and instructor. He is one of the authors of the Agile Manifesto.",
-    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 2,
-    "name": "Andrew Hunt",
-    "bio": "Andrew Hunt is an author of books on software development, a co-author of The Pragmatic Programmer and one of the 17 original authors of the Agile Manifesto.",
-    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 3,
-    "name": "Douglas Crockford",
-    "bio": "American computer programmer and entrepreneur who is best known for his ongoing involvement in the development of JavaScript.",
-    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 4,
-    "name": "Erich Gamma",
-    "bio": "Swiss computer scientist and co-author of the influential software engineering textbook, Design Patterns.",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 5,
-    "name": "Al Sweigart",
-    "bio": "Professional software developer and author of several open source Python books for beginners.",
-    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 6,
-    "name": "Martin Fowler",
-    "bio": "British software engineer, author and international public speaker on software development.",
-    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 7,
-    "name": "Marijn Haverbeke",
-    "bio": "Developer of the Eloquent JavaScript book and the CodeMirror editor.",
-    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 8,
-    "name": "John Sonmez",
-    "bio": "Founder of Simple Programmer and author of Soft Skills: The software developer's life manual.",
-    "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 9,
-    "name": "Steve McConnell",
-    "bio": "Author of several software engineering textbooks including Code Complete and Rapid Development.",
-    "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "id": 10,
-    "name": "Eric Freeman",
-    "bio": "Computer scientist, author and former CTO at Disney Online.",
-    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&auto=format&fit=crop"
-  },
-  {
-    "name": "Jim Collins",
-    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=200&h=200&auto=format&fit=crop",
-    "bio": "Business researcher",
-    "id": 11
-  },
-  {
     "name": "Abdul Wahab",
-    "image": "https://scontent.fkhi16-2.fna.fbcdn.net/v/t39.30808-6/518253338_1746846069247033_4319775705008305325_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHYLKqHrWhzqnmxMt19xLfW7yWsmbcqMOXvJayZtyow5XQzbfVhkfOukwe-142hXneufjtkr1hX_hDnvRmUI0d2&_nc_ohc=-D9uPGbNtS0Q7kNvwHdCx5m&_nc_oc=AdlpN3-cMg9Sj2D2DKg6EL9PCc3xTn_JQsm2_UeoMOEIlTbLLclXscFLc038vB5J3yQ&_nc_zt=23&_nc_ht=scontent.fkhi16-2.fna&_nc_gid=-4Vdd-Wno1F3Qb_j3UXllQ&oh=00_AfqrEbeJqR4A8snGyw_XX43ELMySBZrZI9QXuf1x2_KYog&oe=6960AD75",
-    "bio": "An experienced Software Engineer specializing in Python-based backend and full-stack development, known for building scalable, secure, and production-ready applications.",
+    "image": "https://avatars.githubusercontent.com/u/112203949?v=4",
+    "bio": "Software Engineer, Former CEO at Dexiter Labs, and QA & Product Design/Development Manager at Systemset, recognized for delivering high-quality, user-focused technology solutions.",
     "id": 12
+  },
+  {
+    "name": "Robert C. Martin",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByK4ooTvlwXBzbj_Tv45YJZYuSeJJJ5uoYg&s",
+    "bio": "Robert Cecil Martin is a prominent American software engineer, author, and instructor. He is a co-author of the Agile Manifesto and is widely recognized for promoting the SOLID design principles. He founded Object Mentor and currently serves as a Master Craftsman at Clean Coders.",
+    "id": 13
+  },
+  {
+    "name": "Andrew Hunt",
+    "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/nss2a5eho42ssngjjdpfurn96u.jpg",
+    "bio": "Andy Hunt and Dave Thomas are internationally recognized leading voices in the software development community. They co-founded the Pragmatic Bookshelf and were two of the 17 original authors of the Agile Manifesto.",
+    "id": 14
+  },
+  {
+    "name": "Dave Thomas",
+    "image": "https://files.gotocon.com/uploads/portraits/930/square_medium/dave_thomas_1665971678.jpg",
+    "bio": "Dave Thomas, also known as \"Prag Dave,\" is a renowned British-born programmer, publisher, and educator, famous as the co-author of the seminal book The Pragmatic Programmer with Andy Hunt and a key signatory of the Agile Manifesto. He founded The Pragmatic Bookshelf, coined concepts like DRY (Don't Repeat Yourself) and Code Kata, and significantly popularized languages like Ruby and Elixir, while continuing to write and advocate for simpler, more effective software development.",
+    "id": 15
+  },
+  {
+    "name": "Thomas H. Cormen",
+    "image": "https://pbs.twimg.com/profile_images/1652163869274456064/-OhybgvV_400x400.jpg",
+    "bio": "Thomas H. Cormen is an American politician and retired academic. He is the co-author of Introduction to Algorithms, along with Charles Leiserson, Ron Rivest, and Cliff Stein. In 2013, he published a new book titled Algorithms Unlocked.",
+    "id": 16
+  },
+  {
+    "name": "Charles E. Leiserson",
+    "image": "https://mitibmwatsonailab.mit.edu/wp-content/uploads/2020/03/Leiserson2_MIT.jpg",
+    "bio": "Charles E. Leiserson is a renowned American computer scientist, MIT Professor, and pioneer in parallel computing, known for co-authoring the influential algorithms textbook Introduction to Algorithms, developing the Cilk parallel language, and contributing to supercomputer architecture like the Connection Machine CM-5, focusing on bridging theory with practical, high-performance systems.",
+    "id": 17
+  },
+  {
+    "name": "Ronald L. Rivest",
+    "image": "https://people.csail.mit.edu/rivest/photos/rivest_photo.jpg",
+    "bio": "Ronald L. Rivest is a renowned American computer scientist and cryptographer, an MIT Institute Professor, and one of the \"fathers of modern cryptography,\" best known for co-inventing the RSA encryption algorithm with Adi Shamir and Len Adleman, which secures much of the internet's online commerce. He also developed symmetric ciphers like RC4 and co-authored the influential textbook Introduction to Algorithms, making vast contributions to computer science, security, and algorithms. ",
+    "id": 18
+  },
+  {
+    "name": "Clifford Stein",
+    "image": "https://datascience.columbia.edu/wp-content/uploads/2020/08/Stein.Cliff_.crop_-scaled-e1683215746580.jpg",
+    "bio": "Clifford Stein is a prominent computer scientist and professor at Columbia University known for his work in algorithms, optimization, and big data, and as the co-author of the influential textbook Introduction to Algorithms. He holds the Wai T. Chang Professorship and has led the Data Science Institute at Columbia, focusing on designing efficient algorithms for complex problems in scheduling, machine learning, and logistics.",
+    "id": 19
+  },
+  {
+    "name": "Erich Gamma",
+    "image": "https://www.azquotes.com/public/pictures/authors/ab/73/ab734892e4c516e12dbe75f8979b1b5d/548f7cc0c428d_erich_gamma.jpg",
+    "bio": "Erich Gamma is a renowned Swiss computer scientist, one of the \"Gang of Four\" authors of the foundational Design Patterns book, and a key figure in Java development, having co-created the JUnit testing framework with Kent Beck and led the Java tools for the Eclipse IDE, later joining Microsoft to work on Visual Studio Code.",
+    "id": 20
+  },
+  {
+    "name": "Martin Fowler",
+    "image": "https://www.famousbirthdays.com/faces/fowler-martin-image.jpg",
+    "bio": "Martin Fowler is a renowned software engineer, author, and speaker, known for his influential work on software design patterns, refactoring, Agile development, and domain-driven design, who joined Thoughtworks in 2000 and helped author the Agile Manifesto, shaping modern software practices through books, articles, and his popular website. ",
+    "id": 21
+  },
+  {
+    "name": "Steve McConnell",
+    "image": "https://stevemcconnell.com/wp-content/uploads/2020/10/SteveMcConnell-M.jpg",
+    "bio": "Steve McConnell is a renowned software development expert, author (notably of Code Complete), and CEO of Construx Software, celebrated for improving software engineering practices through books, training, and consulting, focusing on realistic development, estimation, and quality, having influenced the industry for decades with practical guidance and leadership roles like Editor-in-Chief of IEEE Software.",
+    "id": 22
+  },
+  {
+    "name": "Frederick P. Brooks Jr.",
+    "image": "https://cs.unc.edu/wp-content/uploads/sites/1265/2013/12/fred-brooks.jpg",
+    "bio": "Frederick P. Brooks Jr. (1931-2022) was a pivotal American computer scientist, architect, and author, famous for leading the creation of IBM's System/360 family, coining \"computer architecture,\" and writing the classic software engineering book The Mythical Man-Month, shaping both hardware and software development.",
+    "id": 23
+  },
+  {
+    "name": "Harold Abelson",
+    "image": "https://cap.csail.mit.edu/sites/default/files/styles/spotlight_photo/public/2019-01/Hal%20Abelson%2C%20MIT%20CSAIL.jpeg?h=15cd4f7d&itok=cUJdvl3O",
+    "bio": "Harold \"Hal\" Abelson is a renowned American computer scientist, MIT professor, and educator known for co-founding MIT OpenCourseWare, authoring \"Structure and Interpretation of Computer Programs\", and championing open access to education and technology through Creative Commons and the Free Software Foundation, making computing concepts accessible to broader audiences, especially children. He focuses on computational thinking, ethical technology, and innovative educational tools like MIT App Inventor. ",
+    "id": 24
+  },
+  {
+    "name": "Brian W. Kernighan",
+    "image": "https://www.amacad.org/sites/default/files/person/headshots/Kernighan-Brian.jpg",
+    "bio": "Brian W. Kernighan is a celebrated Canadian computer scientist, author, and Princeton professor, famous for his pivotal role at Bell Labs in developing Unix and C programming language, co-authoring influential books like The C Programming Language (K&R), and creating tools such as AWK, significantly shaping software and technology education. ",
+    "id": 25
+  },
+  {
+    "name": "Gayle Laakmann",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUOxUKlg91x40KIflsKY8wMAxPbOZxEmkcg&s",
+    "bio": "Gayle Laakmann McDowell is an author, tech consultant, and founder of CareerCup.com, famous for her bestselling \"Cracking the...\" interview guide series (like Cracking the Coding Interview) that helps people land tech jobs, drawing from her experience as a software engineer at Google, Microsoft, and Apple. She holds degrees from the University of Pennsylvania (CS, MBA from Wharton) and consults with companies to improve hiring, having also authored The Google Resume and co-authored Cracking the PM Interview. ",
+    "id": 26
   }
 ]

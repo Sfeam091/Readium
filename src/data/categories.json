@@ -18,5 +18,10 @@
     "id": 4,
     "name": "Business",
     "description": "Books about business and management"
+  },
+  {
+    "name": "Computer Science / Algorithms",
+    "description": "In computer science, an algorithm is a finite, step-by-step set of unambiguous instructions designed to solve a specific problem or perform a computation, taking inputs and producing outputs, much like a recipe.",
+    "id": 5
   }
 ]
