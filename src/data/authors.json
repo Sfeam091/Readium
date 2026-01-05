@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Robert C. Martin",
+    "bio": "Known as Uncle Bob, is an American software engineer and instructor. He is one of the authors of the Agile Manifesto.",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Andrew Hunt",
+    "bio": "Andrew Hunt is an author of books on software development, a co-author of The Pragmatic Programmer and one of the 17 original authors of the Agile Manifesto.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Douglas Crockford",
+    "bio": "American computer programmer and entrepreneur who is best known for his ongoing involvement in the development of JavaScript.",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Erich Gamma",
+    "bio": "Swiss computer scientist and co-author of the influential software engineering textbook, Design Patterns.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Al Sweigart",
+    "bio": "Professional software developer and author of several open source Python books for beginners.",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Martin Fowler",
+    "bio": "British software engineer, author and international public speaker on software development.",
+    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Marijn Haverbeke",
+    "bio": "Developer of the Eloquent JavaScript book and the CodeMirror editor.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "John Sonmez",
+    "bio": "Founder of Simple Programmer and author of Soft Skills: The software developer's life manual.",
+    "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Steve McConnell",
+    "bio": "Author of several software engineering textbooks including Code Complete and Rapid Development.",
+    "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Eric Freeman",
+    "bio": "Computer scientist, author and former CTO at Disney Online.",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=200&h=200&auto=format&fit=crop"
+  },
+  {
+    "name": "Jim Collins",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=200&h=200&auto=format&fit=crop",
+    "bio": "Business researcher",
+    "id": 11
+  },
+  {
+    "name": "Abdul Wahab",
+    "image": "https://scontent.fkhi16-2.fna.fbcdn.net/v/t39.30808-6/518253338_1746846069247033_4319775705008305325_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHYLKqHrWhzqnmxMt19xLfW7yWsmbcqMOXvJayZtyow5XQzbfVhkfOukwe-142hXneufjtkr1hX_hDnvRmUI0d2&_nc_ohc=-D9uPGbNtS0Q7kNvwHdCx5m&_nc_oc=AdlpN3-cMg9Sj2D2DKg6EL9PCc3xTn_JQsm2_UeoMOEIlTbLLclXscFLc038vB5J3yQ&_nc_zt=23&_nc_ht=scontent.fkhi16-2.fna&_nc_gid=-4Vdd-Wno1F3Qb_j3UXllQ&oh=00_AfqrEbeJqR4A8snGyw_XX43ELMySBZrZI9QXuf1x2_KYog&oe=6960AD75",
+    "bio": "An experienced Software Engineer specializing in Python-based backend and full-stack development, known for building scalable, secure, and production-ready applications.",
+    "id": 12
+  }
+]

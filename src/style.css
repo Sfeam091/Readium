@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+:root {
+  --primary-blue: #0d6efd;
+  --dark-black: #212529;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('/fonts/manrope/Manrope-VariableFont_wght.ttf') format('truetype');
+  font-weight: 200 800;
+  font-display: swap;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900;
+  font-family: 'Manrope', sans-serif;
+}
+
+.btn-primary {
+  @apply bg-primary text-white px-10 py-3 font-medium rounded-2xl hover:bg-primary-dark active:bg-primary-dark transition-colors duration-200 inline-flex items-center justify-center text-center leading-none;
+}
+
+.container-custom {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Book Card */
+.book-card {
+  @apply bg-white border border-gray-200 overflow-hidden rounded-2xl;
+  transition: border-color 0.2s ease;
+}
+
+.book-card:hover {
+  border-color: var(--primary-blue);
+}
+
+/* Page Transitions */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Software Engineering",
+    "description": "Books focused on the core principles of building robust software."
+  },
+  {
+    "id": 2,
+    "name": "Career",
+    "description": "Resources for professional growth, soft skills, and workplace navigation."
+  },
+  {
+    "id": 3,
+    "name": "Programming",
+    "description": "Guides and references for specific programming languages and tools."
+  },
+  {
+    "id": 4,
+    "name": "Business",
+    "description": "Books about business and management"
+  }
+]

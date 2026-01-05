@@ -1,0 +1,86 @@
+[
+  {
+    "id": 6,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "Improving the Design of Existing Code. This book is a must-have for anyone serious about code quality.",
+    "coverImage": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1000&auto=format&fit=crop",
+    "downloadUrl": "#",
+    "year": 1999,
+    "pages": 448,
+    "authorId": 6
+  },
+  {
+    "id": 7,
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "category": [
+      "Programming"
+    ],
+    "description": "A Modern Introduction to Programming. Deeply practical and very readable.",
+    "coverImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop",
+    "downloadUrl": "#",
+    "year": 2011,
+    "pages": 472,
+    "authorId": 7
+  },
+  {
+    "id": 8,
+    "title": "Soft Skills",
+    "author": "John Sonmez",
+    "category": [
+      "Career"
+    ],
+    "description": "The software developer's life manual. It covers everything from fitness to finance.",
+    "coverImage": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=1000&auto=format&fit=crop",
+    "downloadUrl": "#",
+    "year": 2014,
+    "pages": 504,
+    "authorId": 8
+  },
+  {
+    "id": 9,
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "A Practical Handbook of Software Construction. Widely considered one of the best practical guides to programming.",
+    "coverImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000&auto=format&fit=crop",
+    "downloadUrl": "#",
+    "year": 1993,
+    "pages": 960,
+    "authorId": 9
+  },
+  {
+    "id": 10,
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "A Brain-Friendly Guide. Learn how to create reusable, maintainable software with patterns.",
+    "coverImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
+    "downloadUrl": "#",
+    "year": 2004,
+    "pages": 688,
+    "authorId": 10
+  },
+  {
+    "title": "The Impact of Technology on Modern Education",
+    "authorId": 12,
+    "author": "Abdul Wahab",
+    "category": [
+      "Software Engineering"
+    ],
+    "description": "The Impact of Technology on Modern Education: Transforming Classrooms and Learning in the Digital Age explores how technology is reshaping the way we teach, learn, and interact within educational environments. From digital classrooms and e-learning platforms to AI-driven tools and virtual collaboration, this book highlights the innovations driving modern education. It offers insights into the benefits, challenges, and future possibilities of integrating technology in schools, colleges, and universities, empowering educators and learners to adapt, innovate, and thrive in the digital era.",
+    "coverImage": "https://imgv2-1-f.scribdassets.com/img/document/704908315/original/fb76bef6d8/1?v=1",
+    "downloadUrl": "https://drive.google.com/file/d/16mY6wl5iYe257L0gYQx5jdJBUf8kWAZ8/view?usp=sharing",
+    "year": 2026,
+    "pages": 5,
+    "id": 11
+  }
+]
