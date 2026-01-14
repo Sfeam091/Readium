@@ -152,5 +152,33 @@
     "year": 2008,
     "pages": 687,
     "id": 21
+  },
+  {
+    "title": "Artificial Intelligence and Ethics in Everyday Life",
+    "authorId": 27,
+    "author": "Fatima Zahra",
+    "category": [
+      "Computer Science / Algorithms"
+    ],
+    "description": "Artificial Intelligence and Ethics in Everyday Life explores the growing role of AI in our daily activities and the ethical responsibilities that come with it. From smartphones and social media to healthcare, education, and finance, the book explains how artificial intelligence is shaping modern life in simple and understandable language.",
+    "coverImage": "https://i.ibb.co/zW8JB66N/Artificial-Intelligence-and-Ethics-in-Everyday-Life-Cover-Page.png",
+    "downloadUrl": "https://drive.google.com/file/d/1Erf-NWXfRWoSJ4fDp-67mm95aGtQIsoh/view?usp=sharing",
+    "year": 2026,
+    "pages": 14,
+    "id": 22
+  },
+  {
+    "title": "The Story of NASA (AutoRecovered)",
+    "authorId": 28,
+    "author": "Habiba",
+    "category": [
+      "Astronomy / Space Exploration"
+    ],
+    "description": "Exploring the Stars: The Story of NASA tells the inspiring journey of NASA, from its creation in 1958 to its groundbreaking space missions. The book highlights major achievements such as the Moon landing, Mars exploration, and the agency’s role in expanding our understanding of the universe. It also explores NASA’s future goals and how space exploration continues to shape life on Earth.",
+    "coverImage": "https://i.ibb.co/sdFSjrQg/The-Story-of-NASA-Auto-Recovered.png",
+    "downloadUrl": "https://drive.google.com/file/d/1rflCJEvAAM7NNbpD43Wqyyc4Fq10SPBu/view?usp=sharing",
+    "year": 2026,
+    "pages": 12,
+    "id": 23
   }
 ]

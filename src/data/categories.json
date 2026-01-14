@@ -23,5 +23,10 @@
     "name": "Computer Science / Algorithms",
     "description": "In computer science, an algorithm is a finite, step-by-step set of unambiguous instructions designed to solve a specific problem or perform a computation, taking inputs and producing outputs, much like a recipe.",
     "id": 5
+  },
+  {
+    "name": "Astronomy / Space Exploration",
+    "description": "This category focuses on the study of the universe, including planets, stars, galaxies, space missions, and the exploration of outer space using satellites and spacecraft.",
+    "id": 6
   }
 ]

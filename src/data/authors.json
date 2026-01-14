@@ -88,5 +88,17 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUOxUKlg91x40KIflsKY8wMAxPbOZxEmkcg&s",
     "bio": "Gayle Laakmann McDowell is an author, tech consultant, and founder of CareerCup.com, famous for her bestselling \"Cracking the...\" interview guide series (like Cracking the Coding Interview) that helps people land tech jobs, drawing from her experience as a software engineer at Google, Microsoft, and Apple. She holds degrees from the University of Pennsylvania (CS, MBA from Wharton) and consults with companies to improve hiring, having also authored The Google Resume and co-authored Cracking the PM Interview. ",
     "id": 26
+  },
+  {
+    "name": "Fatima Zahra",
+    "image": "https://png.pngtree.com/png-vector/20221130/ourmid/pngtree-user-profile-button-for-web-and-mobile-design-vector-png-image_41767880.jpg",
+    "bio": "She is a dedicated teacher who leads a KG2 class with care and enthusiasm. She is also learning Microsoft Word from TBISS to improve her computer skills and support her teaching work.",
+    "id": 27
+  },
+  {
+    "name": "Habiba",
+    "image": "https://png.pngtree.com/png-vector/20221130/ourmid/pngtree-user-profile-button-for-web-and-mobile-design-vector-png-image_41767880.jpg",
+    "bio": "She is a KG1 teacher currently learning MS Office from TBISS. In the past, she worked as a freelancer, where she managed clients and helped grow sales using social media platforms such as Discord and Twitter (X).",
+    "id": 28
   }
 ]
