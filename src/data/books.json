@@ -180,5 +180,19 @@
     "year": 2026,
     "pages": 12,
     "id": 23
+  },
+  {
+    "title": "Time Trap",
+    "authorId": 29,
+    "author": "Abdul Majid",
+    "category": [
+      "Business"
+    ],
+    "description": "This book explores Time Management and Time Traps in the Modern World, focusing on the challenges people face in today’s fast-paced digital age. It examines how distractions, procrastination, stress, and burnout impact students, professionals, and organizations. Through practical techniques, proven models, real-life case studies, and research-based insights, the book helps readers understand time as a valuable resource and learn how to manage it effectively. Designed as a reference-friendly guide, it also highlights the role of technology in productivity and supports the development of long-term habits for success in both personal and professional life.",
+    "coverImage": "https://i.ibb.co/m5BPMNkM/Time-Trap.png",
+    "downloadUrl": "https://drive.google.com/file/d/1naOGf6WPqXDLEO7uO9VkBYjv1OuFRj18/view?usp=sharing",
+    "year": 2026,
+    "pages": 10,
+    "id": 24
   }
 ]
